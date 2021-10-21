@@ -1,0 +1,2 @@
+rootProject.name = "Prove05"
+include ':app'
